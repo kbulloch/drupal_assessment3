@@ -1,3 +1,21 @@
+#Extending Drupal Assessment
+
+###Kyle Bulloch
+
+05.29.15
+
+Epicodus
+
+##Description
+
+This site was built as an exercise in extending Drupal 7.  It includes a custom theme and custom modules.
+
+##Legal
+
+This software is licensed under the MIT License.
+
+
+---------------------
 
 CONTENTS OF THIS FILE
 ---------------------
