@@ -24,3 +24,13 @@
 #edit-author--2 {
     display: none;
 }
+
+html {
+    background: #bee;
+    color: #666;
+    font-family: Palatino;
+}
+
+.breadcrumb {
+    display: none;
+}
